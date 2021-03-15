@@ -131,6 +131,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
+      alt="Docker"
+      width="40"
+      height="40"
+    />
+  </a>
   <!-- Other -->
   <a href="https://unity.com/" target="_blank">
     <img
