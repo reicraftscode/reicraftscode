@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @reicraftscode an aspiring Full Stack Software Engineer.  
+- 👋 Hi, I’m @reicraftscode an incoming Software Engineer graduate and an aspiring Full Stack Software Engineer.  
 - 💞️ I’m looking to collaborate on my personal project preferably Spring React.
