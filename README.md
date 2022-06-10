@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @reicraftscode an aspiring Full Stack Software Engineer. 
-- 🌱 I’m currently learning MERN stack and Game Development with Unity. 
+- 👋 Hi, I’m @reicraftscode an aspiring Full Stack Software Engineer.  
 - 💞️ I’m looking to collaborate on my personal project preferably Spring React.
-- 🔭 I’m currently working on my Spring React portfolio and my personal website. 
 
 <h3 align="left">Tech stack and skills</h3>
 <!-- Core -->
